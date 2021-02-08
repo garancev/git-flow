@@ -9,12 +9,6 @@ Let's practice Git flow!
 
 Once we have enough content to create a release: 
 
-* Create a release branch from dev: 
-  * `git checkout -b release/v1 dev`
-* Commit the version number change
-
-/!\ Any new feature coming after this goes to `dev`, and won't make it to production until the next release!
-
 Spotting an issue on our release candidate?
 
 * Create a `bugfix/v1-blabla` branch
