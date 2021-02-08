@@ -9,12 +9,6 @@ Let's practice Git flow!
 
 Once we have enough content to create a release: 
 
-Spotting an issue on our release candidate?
-
-* Create a `bugfix/v1-blabla` branch
-* Open a pull request to `release/v1` directly!
-
-Ready to release?
 
 * Merge `release/v1` in `main`. 
 * Release!
